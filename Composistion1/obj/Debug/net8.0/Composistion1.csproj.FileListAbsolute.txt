@@ -1,0 +1,14 @@
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\bin\Debug\net8.0\Composistion1.exe
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\bin\Debug\net8.0\Composistion1.deps.json
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\bin\Debug\net8.0\Composistion1.runtimeconfig.json
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\bin\Debug\net8.0\Composistion1.dll
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\bin\Debug\net8.0\Composistion1.pdb
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.AssemblyInfoInputs.cache
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.AssemblyInfo.cs
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.csproj.CoreCompileInputs.cache
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.dll
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\refint\Composistion1.dll
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.pdb
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\Composistion1.genruntimeconfig.cache
+C:\Users\niscobass\Desktop\Programação\C#\Aprendizado\Composistion1\Composistion1\obj\Debug\net8.0\ref\Composistion1.dll
